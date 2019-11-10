@@ -78,7 +78,7 @@ class StopWatch extends Component {
 const styles = StyleSheet.create({
   StopWatch: {
     minWidth: 300,
-    paddingTop: '10%',
+    paddingTop: '0%',
     marginBottom: '5%',
     backgroundColor: '#e2c499',
   },
