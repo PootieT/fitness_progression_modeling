@@ -8,7 +8,7 @@
 
 import React, {Component} from 'react';
 import {
-  SafeAreaView,
+  AsyncStorage,
   StyleSheet,
   ScrollView,
   View,
@@ -38,7 +38,6 @@ class WorkoutScreen extends Component {
   state = {
     time: '00-00-00',
     workoutStartTime: new Date(),
-    otherState: 'some other value',
     bodyParts: ['Chest', 'Back', 'Legs', 'Arms', 'Shoulder', 'Abs', 'Cardio'],
     exercises: {
       'Chest':['Bench Press','Incline Bench Press','Decline Bench Press','Flye',
@@ -65,7 +64,34 @@ class WorkoutScreen extends Component {
     currentWorkout: []
   }
 
+  _storeData = async (key, value) => {
+    try {
+      await AsyncStorage.setItem(key, value);
+    } catch (error) {}
+  };
 
+  _retrieveData = async (key) => {
+    try {
+      const value = await AsyncStorage.getItem(key);
+      if (value !== null) {
+        console.log("previous",key,"found! and it is:",value);
+        this.setState({
+          [key.split(':').slice(1)]: value
+        })
+      } 
+    } catch (error) {}
+  };
+
+  componentDidMount = () => {
+    this._retrieveData('@MySuperStore:bodyPartSelected')
+    this._retrieveData('@MySuperStore:exerciseSelected')
+    this._retrieveData('@MySuperStore:weightsTypeSelected')
+    this._retrieveData('@MySuperStore:hideInputForms')
+    this._retrieveData('@MySuperStore:currentWeight')
+    this._retrieveData('@MySuperStore:currentRepetition')
+    this._retrieveData('@MySuperStore:currentExercise')
+    this._retrieveData('@MySuperStore:currentWorkout')
+  }
 
   updateWorkoutOrRestHandler = (workoutState) => {
     this.setState({
@@ -77,6 +103,7 @@ class WorkoutScreen extends Component {
     this.setState({
       bodyPartSelected: bodyPart
     })
+    this._storeData('@MySuperStore:bodyPartSelected', bodyPart)
   }
 
   updateExerciseSelectedHandler = (exercise) => {
@@ -84,6 +111,7 @@ class WorkoutScreen extends Component {
     this.setState({
       exerciseSelected: exercise
     })
+    this._storeData('@MySuperStore:exerciseSelected', exercise)
   }
   
   updateWeightsTypeSelectedHandler = (weights) => {
@@ -91,6 +119,7 @@ class WorkoutScreen extends Component {
     this.setState({
       weightsTypeSelected: weights
     })
+    this._storeData('@MySuperStore:weightsTypeSelected', weights)
   }
 
   updateCurrentWeightHandler = (weight) => {
@@ -98,12 +127,14 @@ class WorkoutScreen extends Component {
     this.setState({
       currentWeight: weight
     })
+    this._storeData('@MySuperStore:currentWeight', weight)
   }
 
   updateCurrentRepetitionHandler = (rep) => {
     this.setState({
       currentRepetition: rep
     })
+    this._storeData('@MySuperStore:currentRepetition', rep)
   }
 
   updateCurrentExerciseHandler = (timerDuration) => {
@@ -137,9 +168,9 @@ class WorkoutScreen extends Component {
         }
       })
     }
+    this._storeData('@MySuperStore:currentExercise', this.state.currentExercise)
+    this._storeData('@MySuperStore:hideInputForms', this.state.hideInputForms)
   }
-
-// 3. clear text entry into null when selecting new exercise
 
   appendExercise = () => {  
     const tempCurrentExercise = {
@@ -162,6 +193,9 @@ class WorkoutScreen extends Component {
       currentExercise: {exercise: "", regime: []},
       hideInputForms: true
     })
+    this._storeData('@MySuperStore:currentWorkout', this.state.currentWorkout)
+    this._storeData('@MySuperStore:currentExercise', this.state.currentExercise)
+    this._storeData('@MySuperStore:hideInputForms', this.state.hideInputForms)
   }
 
   recordWorkout = async () => {
@@ -182,6 +216,16 @@ class WorkoutScreen extends Component {
     } catch (error) {
       console.error(error);
     }
+
+    this._storeData('@MySuperStore:bodyPartSelected','Chest')
+    this._storeData('@MySuperStore:exerciseSelected','Bench Press')
+    this._storeData('@MySuperStore:weightsTypeSelected','Body Weight')
+    this._storeData('@MySuperStore:hideInputForms',true)
+    this._storeData('@MySuperStore:currentWeight',0)
+    this._storeData('@MySuperStore:currentRepetition',0)
+    this._storeData('@MySuperStore:currentExercise',{exercise: "", regime: []})
+    this._storeData('@MySuperStore:currentWorkout',[])
+
   }
 
   postData = async (url = '', data = {}) => {
@@ -222,15 +266,18 @@ class WorkoutScreen extends Component {
                     updateExerciseHandler={this.updateCurrentExerciseHandler}/>
           <DropDown options={this.state.bodyParts} 
                     updateFunction={this.updateBodyPartSelectedHandler}
+                    initialValue={this.state.bodyPartSelected}
                     id='Body Part'>
             Body Part
           </DropDown>
           <DropDown options={this.state.exercises[this.state.bodyPartSelected]}
-                    updateFunction={this.updateExerciseSelectedHandler}>
+                    updateFunction={this.updateExerciseSelectedHandler}
+                    initialValue={this.state.exerciseSelected}>
             Exercises
           </DropDown>
           <DropDown options={this.state.weightsType}
-                    updateFunction={this.updateWeightsTypeSelectedHandler}>
+                    updateFunction={this.updateWeightsTypeSelectedHandler}
+                    initialValue={this.state.weightsTypeSelected}>
             Weights Type
           </DropDown>
           { !this.state.hideInputForms &&

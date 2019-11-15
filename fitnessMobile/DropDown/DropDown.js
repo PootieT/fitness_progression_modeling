@@ -30,7 +30,7 @@ class dropDown extends React.Component{
     return (
       <View>
         <Text style={styles.Text}>{this.props.children}</Text>
-        <Picker style={styles.DropDown} selectedValue={this.state.headerDisplay} onValueChange={this.selectHandle}>
+        <Picker style={styles.DropDown} selectedValue={this.props.initialValue} onValueChange={this.selectHandle}>
             {this.props.options.map(option => {
             return <Picker.Item key={option} label={option} value={option} />
             })}
