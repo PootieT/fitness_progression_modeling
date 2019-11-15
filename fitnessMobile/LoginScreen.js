@@ -1,12 +1,11 @@
 import React, {Component} from 'react';
 import {
-  SafeAreaView,
   StyleSheet,
   ScrollView,
   View,
   Text,
-  Button,
-  TouchableOpacity
+  TouchableOpacity,
+  AsyncStorage
 } from 'react-native';
 import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
@@ -20,10 +19,38 @@ class LoginScreen extends React.Component {
     username: ''
   }
 
+  _storeData = async (key, value) => {
+    try {
+      await AsyncStorage.setItem(key, value);
+    } catch (error) {
+      // Error saving data
+    }
+  };
+
+  _retrieveData = async (key) => {
+    try {
+      const value = await AsyncStorage.getItem(key);
+      if (value !== null) {
+        // We have data!!
+        console.log("previous username found! and it is:",value);
+        this.setState({
+          username: username.toLowerCase().replace(/ /g,"_")
+        })
+      }
+    } catch (error) {
+      // Error retrieving data
+    }
+  };
+
+  componentDidMount = () => {
+    this._retrieveData('@MySuperStore:PreviousAppUser')
+  }
+
   updateUsername = (username) => {
     this.setState({
       username: username.toLowerCase().replace(/ /g,"_")
     })
+    this._storeData('@MySuperStore:PreviousAppUser', username)
     console.log("login screen state:", this.state.username)
   }
 
