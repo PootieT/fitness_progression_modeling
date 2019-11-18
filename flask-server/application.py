@@ -32,7 +32,7 @@ def record_workout(username):
 	is_fake_data = False
 	for key in list(content.keys()):
 		is_fake_data = is_fake_data or (key not in ['datetime', 'duration','workout'])
-	if content == {} or len(username) > 15 or (not username.isalnum()):
+	if len(content) == 0 or len(content['workout']) == 0 or len(username) > 15 or (not username.isalnum()):
 		is_fake_data = True
 
 	if is_fake_data:
@@ -51,7 +51,7 @@ def record_workout(username):
 			'duration': content['duration'],
 			'workout': json.dumps(content['workout'])
 		}
-		result = insert_row(row)
+		# result = insert_row(row)
 
 
 
