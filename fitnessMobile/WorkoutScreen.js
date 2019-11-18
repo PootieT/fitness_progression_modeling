@@ -66,7 +66,8 @@ class WorkoutScreen extends Component {
 
   _storeData = async (key, value) => {
     try {
-      await AsyncStorage.setItem(key, value);
+      // await AsyncStorage.setItem(key, value);
+      await AsyncStorage.setItem(key, JSON.stringify(value))
     } catch (error) {}
   };
 
@@ -74,9 +75,9 @@ class WorkoutScreen extends Component {
     try {
       const value = await AsyncStorage.getItem(key);
       if (value !== null) {
-        console.log("previous",key,"found! and it is:",value);
+        console.log("previous",key,"found! and it is:",JSON.parse(value));
         this.setState({
-          [key.split(':').slice(1)]: value
+          [key.split(':').slice(1)]: JSON.parse(value)
         })
       } 
     } catch (error) {}
@@ -210,8 +211,8 @@ class WorkoutScreen extends Component {
     console.log("final workout data", finalWorkoutData)
     console.log("username:", navigation.getParam('username','fake_user'))
     try {
-      // const data = await this.postData('http://localhost:5000/api/record_workout/fake_username', finalWorkoutData);
-      const data = await this.postData('http://fitnessprogressionmodelingserver.us-east-2.elasticbeanstalk.com/api/record_workout/' + JSON.stringify(this.props.navigation.getParam('username')), finalWorkoutData);
+      // const data = await this.postData('http://localhost:5000/api/record_workout/'+ JSON.stringify(this.props.navigation.getParam('username')), finalWorkoutData);
+      const data = await this.postData('http://fitnessprogressionmodelingserver.us-east-2.elasticbeanstalk.com/api/record_workout/' + this.props.navigation.getParam('username'), finalWorkoutData);
       console.log("post response:",JSON.stringify(data)); // JSON-string from `response.json()` call
     } catch (error) {
       console.error(error);
@@ -282,8 +283,8 @@ class WorkoutScreen extends Component {
           </DropDown>
           { !this.state.hideInputForms &&
             <View>
-              <InputForm updateHandler={this.updateCurrentWeightHandler}>Weight</InputForm>
-              <InputForm updateHandler={this.updateCurrentRepetitionHandler}>Reps</InputForm>
+              <InputForm updateHandler={this.updateCurrentWeightHandler} historyValue={this.state.currentWeight}>Weight</InputForm>
+              <InputForm updateHandler={this.updateCurrentRepetitionHandler} historyValue={this.state.currentRepetition}>Reps</InputForm>
             </View>
           }
           <View style={styles.SubmitButtonView}>

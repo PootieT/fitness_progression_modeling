@@ -34,7 +34,7 @@ class InputForm extends React.Component {
             <TextInput
               keyboardType='numeric'
               style={styles.InputForm}
-              placeholder={this.props.children}
+              placeholder={this.props.historyValue==0? this.props.children: this.props.historyValue}
               onChangeText={(text)=> this.handleChange(text)}
               value={this.state.value} 
               maxLength={5}/>
