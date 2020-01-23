@@ -1,0 +1,1 @@
+sudo keytool -genkey -v -keystore fitness-mobile-upload-key.keystore -alias fitness-mobile-key-alias -keyalg RSA -keysize 2048 -validity 10000

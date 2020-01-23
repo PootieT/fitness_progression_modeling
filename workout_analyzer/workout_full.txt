@@ -1,0 +1,1580 @@
+3/4/2019
+Workout
+    bench_press: 
+        [(2, 225), (2, 225), (2, 225)]
+    barbell_incline_press:
+        [(3, 185), (5, 165), (4, 165)]
+    dumbbell_incline_press:
+        [(5, 70), (5, 70), (5, 70)]
+    dumbbell_fly:
+        [(6, 30), (5, 30), (5, 30), (4, 30)]
+    Tricep_overhead_cable_extension:
+        [(6, 100), (6, 100), (4, 100)]
+    Tricep_rope_extension:
+        [(6, 60), (6, 60), (5, 60)]
+Soreness_day_after: 3
+
+3/5/2019
+Workout:
+    wide_grip_chin_up:
+        [(16, 167), (8, 187), (4, 207), (5, 187), (6, 167)]
+    barbell_row:
+        [(9, 135), (6, 155), (4, 165), (7, 135)]
+    dumbbell_row:
+        [(9, 65), (6, 75), (4, 85), (5, 85), (5, 75), (5, 65), (4, 55)]
+    Cable_upper_back_press: 
+        [(9, 30), (6, 45), (5, 45)]
+    Incline_seated_dumbbell_curl:
+        [(3, 45), (6, 35), (5, 35), (8, 25), (6, 35)]
+    Preacher_single_arm_band_curl:
+        [(6, 20), (6, 20)]
+    Ab_wheeler:
+        [(28, 0), (20, 0), (20, 0)]
+Soreness_day_after: 2
+
+3/6/2019
+Workout:
+    squat:
+        [(8, 225), (5, 245), (2, 245), (3, 225)]
+    romanian_deadlift:
+        [(9, 50), (8, 50), (8, 50), (6, 50)]
+    medicine_ball_knee_raise:
+        [(12, 25), (9, 25), (7, 25)]
+    single_leg_calf_raise: 
+        [(13, 207), (15, 207), (15, 207)]
+Soreness_day_after: 3
+
+3/7/2019
+Workout:
+    military_press:
+        [(5, 145), (3, 145), (3, 145), (1, 145), (6, 95)]
+    dumbbell_lateral_raise:
+        [(6, 35), (6, 35), (5, 35), (7, 25), (12, 15)]
+    dumbbell_front_raise:
+        [(24, 15), (15, 25), (9, 35)]
+    rear_delt_dumbell_fly: 
+        [(12, 15), (12, 15), (10, 15)]
+    Cable_bicep_hammer_curl: 
+        [(14, 70), (9, 90), (5, 110), (12, 80), (16, 60)]
+Soreness_day_after: 3
+
+3/8/2019
+Workout:
+    incline_dumbbell_hex_press:
+        [(6, 70), (6, 70), (4, 70)]
+    bench_press:
+        [(9, 185), (8, 185), (9, 175), (9, 135)]
+    dips:
+        [(8, 209), (6, 209), (5, 209)]
+    wide_grip_pull_up: 
+        [(6, 209), (4, 209), (4, 209), (2, 189), (4, 169)]
+    assisted_front_lever_raise: 
+        [(6, -50), (5, -50)]
+Soreness_day_after: 2
+
+3/10/2019
+Workout:
+    squat:
+        [(6, 245), (2, 255), (4, 245), (6, 225)]
+    barbell_hip_raise:
+        [(7, 135), (5, 185), (5, 185), (7, 135)]
+    single_calf_raise:
+        [(20, 210), (15, 230), (15, 230)]
+Soreness_day_after: 2
+
+3/11/2019
+Workout:
+    bench_press:
+        [(5, 225), (4, 225), (3, 225), (5, 205)]
+    incline_dumbbell_press:
+        [(4, 80), (5, 80), (5, 80)]
+    dumbbell_fly:
+        [(6, 30), (6, 30), (5, 30)]
+Soreness_day_after: 2
+
+3/12/2019
+Workout:
+    Chin_up:
+        [(6, 230), (5, 230), (5, 230), (2, 210), (3, 190), (3, 170)]
+    barbell_row:
+        [(5, 185), (5, 185), (5, 185), (12, 135)]
+    single_arm_cable_row:
+        [(5, 120), (5, 120), (5, 120)]
+    behind_the_back_plate_raise:
+        [(7, 45), (7, 45), (7, 45)]
+    single_arm_preacher_curl:
+        [(9, 35), (3, 45), (3, 35), (6, 25)]
+    plate_hammer_curl:
+        [(6, 45), (5, 45), (3, 45)]
+Soreness_day_after: 3
+
+3/13/2019
+Workout:
+    squat:
+        [(4, 255), (2, 255), (3, 245), (6, 225)]
+    romanian_deadlift:
+        [(6, 135), (6, 135), (5, 135), (5, 135)]
+    single_leg_calf_raise:
+        [(16, 230), (16, 230), (17, 230)]
+Soreness_day_after: 3
+
+3/14/2019
+Workout:
+    dumbbell_shoulder_press:
+        [(5, 75), (4, 75), (4, 75), (6, 55), (8, 35), (13, 15)]
+    dumbbell_slant_front_raise:
+        [(8, 30), (6, 30), (6, 30), (10, 20)]
+Soreness_day_after: 1
+
+3/15/2019
+Workout:
+    deadlift:
+        [(1, 305), (1, 345), (1, 365), (4, 305), (2, 305), (6, 215)]
+    close_grip_pull_up:
+        [(13, 170), (4, 230), (5, 210), (6, 190), (4, 170)]
+    dumbbell_bench_press_rotate_out:
+        [(10, 65), (8, 75), (6, 75), (5, 75)]
+    incline_dumbbell_fly:
+        [(8, 25), (6, 30), (6, 30), (6, 30)]
+Soreness_day_after: 3
+
+3/17/2019
+Workout:
+    squat:
+        [(3, 275), (5, 255), (3, 255), (5, 245), (6, 225), (10, 185)]
+    dumbbell_romanian_deadlift:
+        [(7, 60), (7, 60), (5, 60), (5, 60)]
+Soreness_day_after: 4
+
+3/18/2019
+Workout:
+    bench_press:
+        [(1, 255), (2, 245), (4, 225), (3, 225), (7, 185)]
+    incline_dumbbell_close_press:
+        [(4, 70), (5, 60), (6, 60), (6, 60)]
+    Dips:
+        [(9, 210), (6, 230), (5, 230), (9, 190), (6, 170)]
+Soreness_day_after: 4
+
+3/19/2019
+Workout:
+    bent_over_barbell_row:
+        [(7, 185), (4, 205), (6, 185), (6, 185)]
+    single_arm_reverse_grip_cable_pull:
+        [(8, 160), (5, 180), (8, 180), (7, 180)]
+    single_arm_cable_row:
+        [(5, 140), (6, 140), (5, 140), (5, 140)]
+    upper_back_cable_face_pull:
+    [(7, 80), (7, 80), (8, 80)]
+Soreness_day_after: 3
+
+3/20/2019
+Workout:
+    squat:
+        [(10, 225)]
+    lunges:
+        [(12, 310), (12, 310), (12, 310)]
+Soreness_day_after: 4
+
+3/21/2019
+Workout:
+    military_press:
+        [(4, 155), (4, 145), (4, 135), (3, 135)]
+    dumbbell_lateral_raise:
+        [(8, 35), (14, 25), (24, 15), (7, 35), (12, 25), (22, 15)]
+    barbell_one_sided_shoulder_press:
+        [(9, 135), (6, 155), (4, 155)]
+    rear_delt_dumbell_fly:
+        [(10, 15), (10, 15), (9, 15)]
+Soreness_day_after: 1
+
+3/22/2019
+Workout:
+    bench_press:
+        [(9, 195), (9, 195), (7, 195)]
+    incline_dumbell_fly:
+        [(8, 30), (5, 40), (6, 40), (5, 40)]
+    Close_grip_pull_up:
+        [(8, 175), (6, 195), (5, 195), (4, 195), (3, 175)]
+Soreness_day_after: 2
+
+3/24/2019
+Workout:
+    squat:
+        [(5, 255), (5, 255), (4, 255), (3, 245), (10, 225)]
+    romanian_deadlift:
+        [(7, 135), (6, 135), (4, 135)]
+    single_leg_calf_raise:
+        [(15, 230), (17, 230), (18, 230)]
+Soreness_day_after: 2
+
+3/25/2019
+Workout:
+    Bench_press:
+        [(5, 225), (5, 225), (3, 225), (6, 185), (8, 135)]
+    incline_dumbbell_press:
+        [(5, 80), (4, 80), (4, 80), (6, 70)]
+    Planch_pushup_progression:
+        [(6, 172), (6, 172), (4, 172)]
+Soreness_day_after: 2
+
+3/26/2019
+Workout:
+    wide_grip_pull_up:
+        [(6, 232), (5, 232), (3, 232), (5, 212), (6, 192), (6, 172)]
+    close_grip_barbell_row:
+        [(9, 135), (6, 160), (5, 160), (5, 160), (5, 135), (7, 90)]
+Soreness_day_after: 3
+
+3/27/2019
+Workout:
+    squat:
+        [(5, 265), (5, 265), (4, 265), (5, 255), (5, 225)]
+    lunges:
+        [(10, 308), (12, 308), (12, 308), (12, 308), (10, 308)]
+Soreness_day_after: 2
+
+4/1/2019
+Workout:
+    bench_press:
+        [(4, 235), (5, 235), (4, 235), (7, 185)]
+    incline_smith_wide_grip_bench:
+        [(7, 185), (6, 185), (5, 185), (8, 135)]
+    cable_fly:
+        [(7, 70), (6, 70), (6, 70), (6, 50), (8, 30)]
+Soreness_day_after: 2
+
+4/2/2019
+Workout:
+    barbell_row:
+        [(6, 185), (6, 185), (6, 185), (9, 135)]
+    close_grip_pull_up:
+        [(6, 215), (5, 215), (4, 215), (6, 175)]
+    bent_over_single_hand_cable_row:
+        [(5, 130), (4, 130), (5, 130)]
+    Cable_cross_over_upper_back_pull:
+        [(12, 30), (6, 45), (6, 45), (6, 45)]
+incline_seated_hammer_curl:
+        [(6, 35), (6, 35), (6, 35), (8, 25), (8, 25), (10, 15)]
+Soreness_day_after: 3
+
+4/3/2019
+Workout:
+    squat:
+        [(4, 275), (5, 275), (2, 275), (5, 255), (5, 225)]
+    dumbbell_romanian_deadlift:
+        [(9, 55), (9, 55), (8, 55), (7, 55)]
+    single_leg_calf_raise:
+        [(15, 235), (16, 235), (17, 235)]
+Soreness_day_after: 3
+
+4/4/2019
+Workout:
+    military_press:
+        [(7, 135), (6, 115), (7, 95), (7, 65)]
+    lateral_raise:
+        [(30, 25)]
+Soreness_day_after: 1
+
+4/5/2019
+Workout:
+    incline_hex_press:
+        [(8, 70), (5, 75), (5, 75), (8, 65)]
+    incline_bench_press:
+        [(7, 155), (5, 165), (4, 165), (7, 135)]
+    dips:
+        [(9, 235), (5, 235), (5, 195), (6, 175)]
+    wide_grip_pull_up:
+        [(8, 195), (7, 195), (6, 195), (6, 175)]
+    Serratus_pull_down:
+        [(12, 50), (8, 60), (8, 55)]
+Soreness_day_after: 3
+
+4/7/2019
+Workout:
+    squat:
+        [(2, 295), (4, 275), (5, 275), (2, 275), (10, 225)]
+    romanian_deadlift:
+        [(7, 135), (6, 135), (7, 135), (6, 135)]
+    single_calf_raise:
+        [(15, 233), (17, 233), (16, 233)]
+Soreness_day_after: 3
+
+4/8/2019
+Workout:
+    bench_press:
+        [(4, 245), (3, 235), (3, 235), (7, 185), (7, 135)]
+    dips:
+        [(12, 220), (6, 245), (6, 245), (7, 220), (6, 175)]
+    cable_fly:
+        [(15, 30), (6, 45), (6, 45), (4, 45), (5, 35), (10, 25), (10, 15)]
+    dumbbell_skull_crushers:
+        [(8, 35), (6, 40), (6, 40), (5, 40)]
+    Incline_close_grip_bench:
+        [(9, 95), (8, 95), (6, 95)]
+Soreness_day_after: 4
+
+4/9/2019
+Workout:
+    lateral_pull_down:
+        [(6, 240), (5, 240), (4, 240), (4, 200)]
+    reverse_grip_single_arm_pull_down:
+        [(7, 135), (4, 145), (6, 135), (9, 90)]
+    bent_over_machine_row:
+        [(9, 90), (5, 110), (6, 100), (7, 90), (12, 45)]
+    upper_back_smith_press:
+        [(7, 100), (6, 100), (6, 100), (8, 50)]
+    preacher_bar_curl:
+        [(9, 70), (5, 70), (5, 70), (4, 70)]
+    hammer_dumbbell_curl:
+        [(7, 30), (7, 30), (7, 30), (6, 25)]
+Soreness_day_after: 4
+
+4/10/2019
+Workout:
+    squat:
+        [(6, 285), (5, 285), (3, 285), (5, 275), (10, 225)]
+    romanian_deadlift:
+        [(9, 135), (6, 155), (5, 155), (6, 135)]
+Soreness_day_after: 3
+
+4/11/2019
+Workout:
+    military_press:
+        [(5, 145), (5, 145), (3, 145), (4, 135)]
+    seated_behind_the_neck_press:
+        [(9, 50), (6, 70), (5, 70), (5, 70)]
+    lateral_raise:
+        [(8, 40), (10, 35), (12, 30), (13, 25), (6, 40), (5, 35), (8, 30), (9, 25)]
+    cable_face_pull:
+        [(10, 60), (10, 80), (10, 100), (10, 80)]
+Soreness_day_after: 2
+
+4/12/2019
+Workout:
+    bench_press:
+        [(10, 145), (7, 145), (6, 135), (6, 125), (6, 125), (8, 115), (8, 115), (7, 115)]
+    abs_inverse_press:
+        []
+    bounceball_crunch:
+        []
+    leg_raise:
+        []
+Soreness_day_after: 2
+
+4/14/2019
+Workout:
+    squat:
+        [(4, 295), (5, 295), (5, 275), (4, 275), (10, 225)]
+    lunges:
+        [(8, 320), (8, 320), (8, 320), (10, 300)]
+    medicine_ball_knee_raise:
+        [(10, 25), (10, 25), (8, 25)]
+    hanging_leg_raise:
+        [(8, 0), (8, 0), (6, 0)]
+    bench_leg_raise:
+        [(20, 0), (14, 0), (12, 0)]
+swissball_sit_up:
+        [(15, 0), (12, 0), (8, 0)]
+Soreness_day_after: 4
+
+4/15/2019
+Workout:
+    bench_press:
+        [(1, 245)]
+    dumbbell_bench_press:
+        [(7, 70), (5, 80), (5, 80), (5, 80)]
+    incline_hex_press:
+        [(6, 60), (5, 60), (5, 60), (4, 60)]
+    dumbbell_fly:
+        [(6, 40), (3, 40), (6, 30), (5, 30)]
+    tricep_rope_extension:
+        [(10, 80), (11, 90), (7, 110), (6, 100)]
+Soreness_day_after: 2
+
+4/15/2019
+Workout:
+    wide_grip_pull_up:
+        [(6, 235), (3, 235), (5, 215), (4, 195), (3, 175)]
+    chin_up:
+        [(6, 235), (8, 215), (7, 195)]
+    in_between_leg_barbell_row:
+        [(8, 135), (5, 160), (5, 160), (7, 135)]
+    barbell_row:
+        [(7, 135), (5, 155), (5, 155), (6, 135)]
+    dumbbell_curl:
+        [(7, 35), (6, 35), (6, 35), (6, 35)]
+    Concentration_curl:
+        [(13, 25), (13, 25), (13, 25), (10, 25)]
+Soreness_day_after: 3
+
+4/16/2019
+Workout:
+    squat:
+        [(2, 315), (2, 295), (8, 225), (7, 225), (6, 225)]
+    hanging_leg_raise:
+        [(10, 0), (10, 0), (10, 0)]
+    bench_leg_raise:
+        [(20, 0), (20, 0), (20, 0)]
+Soreness_day_after: 2
+
+4/19/2019
+Workout:
+arnold_press:
+        [(8, 55), (7, 55), (6, 55), (5, 55)]
+    lateral_raise:
+        [(11, 25), (9, 25), (8, 25)]
+    dumbbell_curl:
+        [(7, 45), (6, 45), (5, 45)]
+Soreness_day_after: 2
+
+4/21/2019
+Workout:
+    squat:
+        [(4, 295), (4, 295), (3, 295), (5, 275), (10, 225)]
+    dumbbell_romanian_deadlift:
+        [(11, 60), (10, 60), (8, 60)]
+    ab_wheeler:
+        [(0, 10), (0, 10), (0, 10)]
+    hanging_leg_raise:
+        [(12, 0), (12, 0), (9, 0)]
+    mountian_climber:
+        [(40, 0), (40, 0), (40, 0)]
+Soreness_day_after: 3
+
+4/22/2019
+Workout:
+    bench_press:
+        [(2, 245), (5, 225), (3, 225), (4, 205), (8, 135)]
+    dumbbell_bench_press:
+        [(6, 70), (6, 70), (9, 60), (8, 60)]
+    cable_fly:
+        [(10, 50), (10, 60), (6, 70), (8, 55), (8, 45)]
+    incline_skull_crusher:
+        [(13, 75), (6, 95), (8, 85)]
+    reverse_grip_tricep_extension:
+        [(6, 50), (8, 40), (8, 40)]
+Soreness_day_after: 4
+
+4/23/2019
+Workout:
+narrow_grip_pull_up:
+        [(9, 195), (7, 215), (5, 215), (5, 195), (4, 175)]
+    in_between_leg_barbell_row:
+        [(12, 90), (8, 135), (6, 145), (5, 145)]
+    rear_delt_cable_fly:
+        [(20, 25), (16, 30), (14, 35)]
+    seated_incline_curl:
+        [(5, 45), (4, 45), (9, 35), (6, 35), (6, 15)]
+Soreness_day_after: 4
+
+4/25/2019
+Workout:
+    squat:
+        [(7, 245), (5, 245), (3, 245), (6, 225)]
+    machine_squat:
+        [(8, 480), (4, 470), (4, 470), (4, 470)]
+    single_hamstring_curl:
+        [(10, 60), (6, 80), (8, 60)]
+    seating_calf_raise:
+        [(11, 70), (15, 70), (16, 70)]
+    cable_leg_raise:
+        [(10, 45), (10, 45), (9, 45)]
+    hanging_leg_raise:
+        [(11, 0), (10, 0), (10, 0)]
+    leg_raise:
+        [(20, 0), (20, 0), (20, 0)]
+Soreness_day_after: 3
+
+4/28/2019
+Workout:
+    squat:
+        [(2, 305), (3, 295), (5, 275), (9, 225)]
+    leg_press:
+        [(10, 320), (10, 410), (7, 500), (6, 550), (6, 320)]
+    romanian_deadlift:
+        [(8, 145), (7, 145), (6, 145), (6, 145)]
+    seating_calf_raise:
+        [(14, 95), (10, 120), (12, 120)]
+    barbell_ab_wheeler:
+        [(10, 50), (10, 50), (8, 50)]
+    hanging_leg_raise:
+        [(12, 0), (12, 0), (10, 0)]
+    machine_bicep_curl:
+        [(7, 90), (5, 120), (5, 120), (6, 100), (5, 80), (6, 60), (8, 40), (10, 20)]
+Soreness_day_after: 4
+
+4/29/2019
+Workout:
+    bench_press:
+        [(3, 245), (4, 225), (4, 225), (3, 225), (4, 185), (6, 135)]
+    machine_incline_bench_press:
+        [(8, 80), (6, 80), (7, 80), (6, 80)]
+    dips:
+        [(6, 220), (5, 220), (5, 220), (7, 175)]
+    over_head_dumbbell_tricep_extension:
+        [(10, 25), (5, 35), (7, 30), (6, 30)]
+    tricep_rope_extension:
+        [(12, 80), (10, 100), (10, 100)]
+Soreness_day_after: 4
+
+5/1/2019
+Workout:
+    lateral_pull_down:
+        [(5, 230), (7, 225), (5, 225), (4, 180), (7, 120), (4, 210), (4, 165), (6, 105)]
+    machine_row:
+        [(5, 150), (6, 140), (6, 140), (6, 140)]
+    bent_over_machine_row:
+        [(9, 90), (5, 115), (7, 90), (8, 70), (9, 45), (7, 90), (7, 70), (8, 45)]
+    dumbbell_shrug:
+        [(10, 70), (9, 90), (9, 90)]
+    incline_seated_curl:
+        [(7, 40), (6, 40), (5, 40), (5, 35), (7, 15)]
+    machine_preacher_curl:
+        [(12, 90), (7, 110), (18, 60), (18, 60)]
+    cable_slow_curl:
+        [(6, 20), (6, 20), (6, 20)]
+    Cable_barbell_curl:
+        [(14, 40)]
+Soreness_day_after: 4
+
+5/2/2019
+Workout:
+    squat:
+        [(9, 225), (6, 275), (4, 295), (5, 275), (6, 225)]
+    dumbbell_lunges:
+        [(14, 70), (12, 70), (10, 70), (8, 70)]
+    hanging_medicine_ball_knee_raise:
+        [(10, 25), (9, 25), (9, 25)]
+    leg_raise:
+        [(20, 0), (20, 0), (20, 0)]
+    swiss_ball_sit_up:
+        [(10, 0), (10, 0)]
+Soreness_day_after: 2
+
+5/3/2019
+Workout:
+    incline_bench:
+        [(7, 185), (5, 185), (4, 185), (5, 135), (6, 95), (3, 185), (5, 135), (5, 95)]
+    decline_bench:
+        [(8, 135), (6, 155), (6, 155), (7, 135)]
+    cable_fly:
+        [(6, 125), (5, 125), (6, 110), (6, 80), (8, 50), (12, 30)]
+    front_and_lateral_dumbbell_raise:
+        [(14, 30), (12, 30), (12, 30), (12, 30)]
+Soreness_day_after: 3
+
+5/5/2019
+Workout:
+    squat:
+        [(7, 225), (1, 335), (2, 315), (5, 295), (6, 275), (5, 275)]
+    romanian_deadlift:
+        [(6, 155), (6, 155), (6, 155), (5, 155)]
+    hanging_leg_raise:
+        [(10, 0), (10, 0), (10, 0)]
+    hanging_leg_side_raise:
+        [(5, 0), (6, 0), (6, 0)]
+Soreness_day_after: 2
+
+5/6/2019
+Workout:
+    bench_press:
+        [(7, 185), (5, 225), (5, 225), (5, 225), (6, 185), (7, 135)]
+    incline_dumbbell_bench:
+        [(5, 70), (5, 70), (5, 70), (8, 45)]
+    machine_fly:
+        [(10, 60), (6, 75), (7, 75), (6, 75)]
+    floor_smith_tricep_press:
+        [(10, 50), (7, 100), (6, 100), (6, 100), (10, 50)]
+    Tricep_rope_extension:
+        [(12, 80), (12, 80), (10, 80)]
+Soreness_day_after: 1
+
+5/8/2019
+Workout:
+    back_machine_pull_narrow:
+        [(8, 90), (5, 135), (5, 135), (5, 135), (7, 90)]
+    back_machine_pull_wide:
+        [(8, 90), (5, 135), (5, 135), (7, 90), (7, 45), (8, 90), (10, 45)]
+    machine_pull_down:
+        [(10, 90), (5, 135), (6, 90), (6, 90)]
+    upper_back_smith_press:
+        [(8, 50), (6, 70),(6, 70), (6, 50)]
+    preacher_curl:
+        [(7, 75), (4, 85), (4, 85), (2, 75)]
+    rope_curl_splits:
+        [(24, 60), (21, 70), (18, 80), (6, 80)]
+    dumbbell_curl:
+        [(7, 35), (7, 35), (7, 35)]
+Soreness_day_after: 2
+
+5/9/2019
+Workout:
+    50_meter_sprint:
+        [(8, 0)]
+Soreness_day_after: 2
+
+5/10/2019
+Workout:
+    incline_hex_press:
+        [(6, 75), (5, 75), (5, 75), (3, 75)]
+    dips:
+        [(8, 220), (6, 245), (5, 245), (7, 220), (5, 175)]
+    vary_grip_bench:
+        [(9, 135), (9, 155), (8, 155)]
+    one_sided_barbell_front_press:
+        [(8, 45), (6, 55), (4, 55), (6, 45)]
+    lateral_raise:
+        [(12, 30), (9, 35), (8, 35), (8, 35)]
+    dumbbell_front_raise:
+        [(9, 30), (9, 30), (9, 30)]
+    rear_delt_dumbell_fly:
+        [(10, 10), (10, 10), (10, 10)]
+Soreness_day_after: 2
+
+5/12/2019
+Workout:
+    squat:
+        [(3, 315), (3, 315), (4, 295), (6, 275), (5, 275)]
+    lunges:
+        [(10, 310), (14, 310), (14, 310)]
+    hanging_knee_raise:
+        [(10, 25), (10, 25), (8, 25)]
+    hanging_leg_raise:
+        [(10, 0), (10, 0), (7, 0)]
+    medicine_ball_leg_pull:
+        [(10, 0), (10, 0), (10, 0)]
+    barbell_russian_twist:
+        [(24, 45), (24, 0), (24, 0)]
+Soreness_day_after: 3
+
+5/13/2019
+Workout:
+    dumbbell_press:
+        [(12, 60), (11, 60), (10, 60), (9, 60)]
+    incline_machine_press:
+        [(12, 45), (12, 55), (13, 55), (11, 55), (10, 45)]
+    machine_fly:
+        [(11, 60), (10, 60), (9, 60), (9, 60)]
+    dips:
+        [(11, 0), (10, 0), (8, 0), (6, 0)]
+    seated_dumbbell_over_the_head_press:
+        [(12, 50), (10, 50), (8, 50), (7, 50)]
+    tricep_rope_extension:
+        [(13, 60), (12, 60), (12, 60), (12, 60)]
+Soreness_day_after: 2
+
+5/14/2019
+Workout:
+    back_machine_pull_narrow:
+        [(14, 90), (13, 90), (9, 90), (8, 90)]
+    lateral_pull_down:
+        [(12, 120), (11, 120), (11, 120), (10, 120), (8, 120)]
+    bent_over_machine_row:
+        [(11, 45), (10, 45), (10, 45), (9, 45)]
+    back_machine_pull_high:
+        [(9, 90), (10, 70), (10, 70), (8, 70)]
+    barbell_curl:
+        [(20, 35), (14, 45), (12, 45), (8, 45), (8, 35)]
+    dumbbell_preacher_curl:
+        [(13, 15), (13, 15), (13, 15)]
+Soreness_day_after: 2
+
+5/16/2019
+Workout:
+    dumbbell_bench_press--lat_pull_owns:
+        [(10, 65), (10, 65), (10, 65), (10, 65)]
+        [(10, 140), (10, 150), (10, 150), (9, 150)]
+    Incline_bench_press--seated_cable_row:
+        [(10, 135), (10, 135), (8, 135), (8, 65)]
+        [(10, 130), (10, 140), (10, 140), (10, 140)]
+    cable_fly--incline_dumbbell_rows: 
+        [(15, 80), (15, 80), (15, 80), (12, 95)]
+        [(10, 65), (10, 65), (10, 65), (10, 65)]
+    wide_pushup: 
+        [(20, 0), (20, 0), (20, 0)]
+    pull_up:
+        [(9, 140), (10, 120), (10, 100)]
+    single_arm_row:
+        [(10, 125), (10, 140)]
+    Plank:
+        [(120, 0)]
+    Seated_twist:
+        [(50, 0), (50, 0)]
+Soreness_day_after: 3
+
+5/17/2019
+Workout:
+    Machine_squat:
+        [(15, 90), (15, 180), (15, 270), (15, 360), (15, 410)]
+    dumbbell_lunges:
+        [(30, 50), (30, 50), (30, 60), (30, 60)]
+    Leg_extension:
+        [(15, 70), (15, 80), (15, 90), (7, 70), (7, 50), (7, 30), (7, 10)]
+    seated_calf_raise:
+        [(25, 70), (25, 70), (25, 70)]
+Soreness_day_after: 5
+
+5/18/2019
+Workout:
+    lateral_raise:
+        [(15, 30), (15, 30), (15, 30), (15, 25)]
+    arnold_press:
+        [(9, 45), (8, 45), (8, 45), (9, 40)]
+    dumbbell_shoulder_press:
+        [(9, 50), (9, 50), (8, 50)]
+    rear_delt_dumbell_fly:
+        [(25, 12), (25, 12), (25, 10)]    
+    tricep_rope_extension--barbell_curl:
+        [(15, 80), (15, 100), (12, 100), (12, 90)]
+        [(15, 45), (15, 55), (15, 55), (12, 55)]
+    vbar_press_down--hammer_curl:
+        [(12, 120), (12, 140), (12, 120)]
+        [(12, 25), (12, 30), (9, 35)]
+    skull_crushers--dumbbell_curl:
+        [(9, 75), (9, 75), (8, 75)]
+        [(12, 35), (12, 35), (11, 30)]
+Soreness_day_after: 3
+
+5/20/2019
+Workout:
+    bench_press:
+        [(4, 195), (4, 195), (4, 195), (4, 195), (4, 195)]
+    dumbbell_incline_press:
+        [(15, 65), (13, 70), (13, 65)]
+    cable_chest_press:
+        [(10, 135), (10, 120)]
+    dumbbell_lateral_raise:
+        [(15, 25), (15, 25), (15, 25)]
+    rope_tricep_extension:
+        [(15, 90), (15, 100), (10, 100)]
+    Ab_crunches:
+        [(50, 0)]
+    hanging_leg_raise:
+        [(15, 0), (10, 0), (10, 0)]
+Soreness_day_after: 2
+
+5/21/2019
+Workout:
+    squat:
+        [(4, 255), (4, 255), (4, 255), (4, 255), (4, 255)]
+    deadlift:
+        [(4, 275), (4, 275), (4, 275), (4, 275), (4, 275)]
+    leg_extension:
+        [(12, 110), (12, 110), (12, 120)]
+    leg_curl:
+        [(12, 110), (12, 120), (12, 120)]
+    seated_calf_raise:
+        [(25, 70), (25, 80)]
+Soreness_day_after:1
+
+5/23/2019
+Workout:
+    dumbbell_bench_press--lat_pull_owns:
+        [(10, 70), (10, 75), (10, 75), (10, 75)]
+        [(10, 150), (10, 165), (10, 165), (9, 165)]
+    Incline_bench_press--seated_cable_row:
+        [(9, 135), (9, 135), (8, 135)]
+        [(10, 140), (10, 150), (10, 140)]
+    cable_fly--incline_dumbbell_rows: 
+        [(12, 110), (11, 110), (11, 95)]
+        [(10, 65), (10, 65), (10, 65)]
+    wide_pushup: 
+        [(20, 0), (20, 0), (20, 0)]
+    pull_up:
+        [(10, 137), (10, 127), (10, 107)]
+Soreness_day_after: 2
+
+5/24/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 80), (15, 90), (15,100)]
+        [(15, 60), (15, 70), (15,90)]
+    Tricep_reverse_cable_curl--dumbbell_concentration_curl:
+        [(9, 30), (8, 30), (8,30)]
+        [(15, 100), (15, 110), (10,130)]
+    Barbell_curl--narrow_pushup:
+        [(45, 15), (65, 12), (65,10)]
+        [(15, 165), (15, 165), (15,165)]
+    Forearm_curl--forearm_flex:
+        [(15, 15), (15, 10), (15,10)]
+        [(15, 15), (15, 10), (15,10)]
+    Arnold_press:
+        [(11, 55), (10, 55), (13,50)]
+    Lateral_raise:
+        [(15, 30), (15, 30), (15,30)]
+    Front_raise:
+        [(12, 25), (12, 25), (10,25)]
+    rear_delt_dumbell_fly:
+        [(15, 15), (15, 15), (15,15)]
+Soreness_day_after: 3
+
+5/25/2019
+Workout:
+    Leg_press:
+        [(15, 180), (15, 270), (15,320), (15,320)]
+    dumbbell_lunges:
+        [(25, 50), (25, 50), (25, 50)]
+    Low_smith_squat:
+        [(15, 90), (15, 90), (15, 90)]
+    Glute_bridge:
+        [(15, 45), (15, 65), (15, 75)]
+    Leg_extension:
+        [(15, 90), (15, 100), (15, 110)]
+    Hamstring_curl:
+        [(15, 90), (15, 105), (15, 105)]
+    Standing_calf_raise:
+        [(25, 110), (25, 150), (25, 150)]
+Soreness_day_after: 4
+
+5/27/2019
+Workout:
+    bench_press:
+        [(3, 190), (3, 190), (3, 190), (3, 205), (3, 205), (3, 205)]
+    dumbbell_incline_press:
+        [(15, 135), (15, 145), (11, 135), (5, 95)]
+    cable_chest_press:
+        [(10, 135), (10, 150)]
+    dumbbell_lateral_raise:
+        [(15, 30), (15, 30), (15, 30)]
+    rope_tricep_extension:
+        [(15, 100), (15, 110), (10, 120)]
+    hanging_leg_raise:
+        [(10, 20), (7, 0), (8, 20), (6, 0), (10, 0)]
+Soreness_day_after: 2
+
+5/29/2019
+Workout:
+    Pullups:
+        [(12, 165), (8, 190), (4, 210), (6, 200), (9, 165)]
+    Medium_grip_seated_row:
+        [(12, 90), (9, 115), (9, 115), (8, 115)]
+    Reverse_grip_machine_pull_down:
+        [(15, 70), (10, 90), (10, 90), (10, 90)]
+    single_arm_row:
+        [(15, 22.5), (10, 27.5), (10, 32.5)]
+    Straight_arm_press_down:
+        [(15, 60), (15, 80), (12, 90)]
+    Lower_back_hyperextension:
+        [(15, 165), (15, 165), (15, 165)]
+    Abs_machine_crunch:
+        [(25, 75), (25, 105), (15, 105), (10, 75)]
+    russian_twist:
+        [(25, 25), (25, 45), (25, 45)]
+    Lying_leg_raise:
+        [(25, 0), (25, 0), (25, 0)]
+    Plank:
+        [(120, 165), (120, 165), (120, 165)]
+Soreness_day_after: 3
+
+5/30/2019
+Workout:
+    deadlift:
+        [(20, 135), (15, 185), (12, 205), (7, 225), (8, 225)]
+    single_leg_curl:
+        [(15, 50), (15, 70), (15, 60), (15, 60)]
+    lying_leg_curl:
+        [(12, 85), (9, 85), (12, 65), (12, 65)]
+    box_step_up:
+        [(15, 165), (15, 185), (15, 190)]
+    walking_lunges:
+        [(15, 195), (15, 225), (15, 225)]
+    leg_press:
+        [(15, 180), (15, 200), (15, 230), (15, 250)]
+    seated_calf_raise:
+        [(25, 90), (21, 90), (18, 90)]
+Soreness_day_after: 4
+
+5/31/2019
+Workout:
+    lateral_raise:
+        [(15, 35), (15, 35), (15, 30), (15, 30)]
+    arnold_press:
+        [(10, 40), (9, 40), (9, 40), (8, 40)]
+    dumbbell_shoulder_press:
+        [(11, 50), (9, 55), (6, 65), (7, 65)]
+    rear_delt_dumbell_fly:
+        [(14, 15), (12, 20), (12, 20)]
+    shrug:
+        [(14, 70), (10, 85), (10, 85)]
+Soreness_day_after: 3
+
+6/1/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 100), (15, 110), (15,110), (15,110), (15,110)]
+        [(15, 70), (15, 90), (12,100), (15,90), (15,90)]
+    vbar_press_down--dumbbell_concentration_curl:
+        [(15, 120), (15, 130), (15, 140), (15, 140), (15, 140)]
+        [(9, 30), (9, 30), (8, 30), (7, 30), (8, 25)]
+    skull_crushers--bicep_hammer_curl:
+        [(12, 65), (11, 65), (10, 65), (10, 65), (9, 65)]
+        [(13, 25), (10, 30), (10, 30), (9, 30), (8, 30)]
+    bench_dips--dumbbell_curl:
+        [(20, 165), (19, 190), (16,215), (19,190)]
+        [(8, 30), (10, 25), (10, 25), (9, 25)]
+    Forearm_curl--forearm_flex:
+        [(15, 10), (15, 12), (15,15)]
+        [(15, 10), (15, 12), (15,15)]
+    Tricep_pushup:
+        [(18, 165), (14, 165), (12, 165)]
+    Abs_crunches:
+        [(100, 0)]
+    Russian_twist:
+        [(100, 8)]
+    Flutter_kicks:
+        [(100, 0)]
+Soreness_day_after: 3
+
+6/3/2019
+Workout:
+    squat:
+        [(12, 205), (10, 205), (12,195), (6,195)]
+    lunges:
+        [(15, 235), (15, 235), (15, 235)]
+    hack_squat:
+        [(15, 180), (15, 270), (12, 360)]
+    glute_bridge:
+        [(15, 95), (15, 95), (15,95)]
+    leg_extension:
+        [(20, 80), (20, 100), (15,120),(15, 120), (15,120),(15, 120),(15,120)]
+    calves_standing:
+        [(25, 150), (25, 170), (25, 170), (25, 150)]
+    calves_seated:
+        [(25, 90), (25, 90), (21, 90), (25, 70)]
+Soreness_day_after: 3
+
+6/4/2019
+Workout:
+    bench_press:
+        [(15, 115), (11, 155), (10,155), (7, 165), (4, 185)]
+    machine_incline_bench_press:
+        [(14, 70), (11, 80), (11, 70)]
+    cable_chest_press:
+        [(12, 150), (11, 160), (10, 160)]
+    cable_fly:
+        [(15, 80), (13, 80), (14,80)]
+    Machine_fly:
+        [(15, 90), (14, 90)]
+    wide_pushup--hammer_lying_press:
+        [(15, 163), (15, 163), (15, 163), (15, 163)]
+        [(10, 40), (10, 40), (9, 40), (8, 35)]
+Soreness_day_after: 4
+
+6/5/2019
+Workout
+    Pullup:
+        [(15, 163), (12, 165), (10,165), (8, 165), (7, 165)]
+    medium_grip_seated_row:
+        [(12, 90), (12, 100), (12, 100), (12, 100)]
+    wide_grip_lat_pull_down:
+        [(10, 150), (12, 135), (12, 135)]
+    single_arm_row:
+        [(15, 15), (12, 27.5), (9,35), (6,40)]
+    straight_arm_press_down:
+        [(20, 80), (15, 100), (12, 110), (8, 110)]
+    Abs_machine_crunch:
+        [(25, 55), (25, 70), (25, 55)]
+    captain_chair_side_raise:
+        [(20, 163),(20, 163),(20, 163)]
+    lying_leg_raise:
+        [(25, 163), (25, 163), (25, 163)]
+    Plank:
+        [(120, 163), (120, 163), (120, 163)]
+Soreness_day_after: 3
+
+6/7/2019
+Workout:
+    Side_hang_lateral_raise:
+        [(10, 15), (12.5, 15), (15, 15), (20, 15)]
+    seated_machine_shoulder_press:
+        [(15, 25), (15, 45), (12, 70), (15, 70)]
+    rear_delt_machine_fly:
+        [(15, 70), (15, 80), (15, 90), (15, 90)]
+    dumbbell_front_raise:
+        [(12, 30), (12, 30), (9,30), (9,30)]
+    seated_smith_shoulder_press:
+        [(15, 70), (12, 90), (9, 110), (8, 110)]
+Soreness_day_after: 3
+
+6/8/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 90), (15, 100), (15,110), (15,120), (13,120)]
+        [(15, 80), (15, 90), (15,100), (12,110), (10,110)]
+    vbar_press_down--dumbbell_concentration_curl:
+        [(15, 120), (15, 130), (15, 140), (15, 150), (15, 150)]
+        [(10, 30), (9, 30), (8, 30), (8, 30), (7, 30)]
+    skull_crushers--bicep_hammer_curl:
+        [(12, 65), (11, 65), (10, 65), (10, 65), (9, 65)]
+        [(11, 40), (10, 40), (8, 40), (8, 40), (8, 40)]
+    bench_dips--dumbbell_curl:
+        [(20, 163), (19, 213), (15,213), (16,213), (15,163)]
+        [(10, 35), (8, 35), (9, 35), (8, 35), (8, 35)]
+    Forearm_curl--forearm_flex:
+        [(15, 15), (15, 15), (15,15)]
+        [(15, 15), (15, 15), (15,15)]
+    Tricep_pushup:
+        [(17, 163), (13, 163), (9, 165)]
+    Abs_crunches:
+        [(100, 0)]
+    Russian_twist:
+        [(100, 8)]
+    Flutter_kicks:
+        [(100, 0)]
+    Side_plank:
+        [(120, 0), (120, 0)]
+Soreness_day_after: 3
+
+6/10/2019
+Workout:
+    leg_press:
+        [(15, 180), (15, 270), (15,360), (15,410), (12,450)]
+    lunges:
+        [(15, 193), (15, 253), (15, 283)]
+    hack_squat:
+        [(15, 140), (15, 230), (12, 320)]
+    glute_bridge:
+        [(15, 45), (15, 45), (15,45)]
+    leg_extension:
+        [(20, 80), (20, 100), (20, 120),(15, 140), (15,140)]
+    calves_standing:
+        [(25, 170), (25, 190)]
+    calves_seated:
+        [(25, 90), (25, 90), (25, 90)]
+Soreness_day_after: 3
+
+6/11/2019
+Workout:
+    bench_press:
+        [(15, 115), (12, 145), (10,165), (7, 175), (4, 185)]
+    incline_dumbbell_press--cable_fly:
+        [(13, 60), (10, 60), (7, 60)]
+        [(9, 55), (15, 45), (13,45)]
+Soreness_day_after: 2
+
+6/19/2019
+Workout
+    Pullup:
+        [(15, 163), (14, 163), (10,163), (6, 163)]
+    medium_grip_seated_row:
+        [(12, 90), (12, 100), (10, 110), (12, 100)]
+    wide_grip_lat_pull_down:
+        [(12, 135), (12, 135), (11, 135)]
+    single_arm_row:
+        [(14, 20), (11, 25), (9,30), (6,35)]
+    straight_arm_press_down:
+        [(15, 90), (12, 110), (10, 110), (11, 100)]
+    Abs_machine_crunch:
+        [(25, 65), (25, 65), (25, 65)]
+    russian_twist:
+        [(25, 45),(25, 45),(25, 45)]
+    lying_leg_raise:
+        [(25, 163), (25, 163), (25, 163)]
+    Plank:
+        [(120, 163), (120, 163), (120, 163)]
+Soreness_day_after: 5
+
+6/20/2019
+Workout:
+    dumbbell_romanian_deadlift:
+        [(20, 25), (20, 25), (15, 30), (15, 30)]
+    single_leg_curl:
+        [(15, 50), (15, 70), (15, 80), (15, 70), (15, 75)]
+    lying_leg_curl:
+        [(12, 65), (12, 73), (12, 80), (10, 80)]
+    box_step_up:
+        [(15, 161), (15, 191), (15, 191), (14, 191)]
+    walking_lunges:
+        [(17, 211), (17, 221)]
+    seated_calf_raise:
+        [(25, 90), (25, 100), (25, 100), (25, 100)]
+    leg_press:
+        [(15, 180), (15, 270), (4, 320), (15, 230)]
+    standing_calf_raise:
+        [(25, 170), (25, 170), (25, 170), (25, 170)]
+Soreness_day_after: 4
+
+6/21/2019
+Workout:
+    machine_incline_bench_press:
+        [(20, 45, 90), (15, 70, 90), (12, 90, 90), (8, 100, 90)]
+    cable_chest_press:
+        [(15, 80, 90), (15, 150, 90), (12, 165, 90)]
+    cable_fly--wide_pushup:
+        [(20, 80, 30), (20, 80, 30), (20, 80, 30), (20, 80, 30)]
+        [(15, 161, 30), (15, 161, 30), (15, 161, 30), (15, 161, 30)]
+Soreness_day_after: 3
+
+6/22/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 100), (15, 110), (12,120), (12,110), (14,100)]
+        [(15, 90), (15, 100), (12,110), (14,90), (14,90)]
+    reverse_tricep_pulldown--dumbbell_concentration_curl:
+        [(15, 80), (15, 100), (15, 120), (15, 120), (15, 120)]
+        [(10, 30), (8, 30), (8, 30), (8, 30), (7, 30)]
+    skull_crushers--bicep_hammer_curl:
+        [(12, 70), (11, 70), (10, 70), (9, 70), (8, 70)]
+        [(10, 40), (9, 40), (8, 40), (8, 40), (8, 40)]
+    bench_dips--dumbbell_curl:
+        [(20, 161), (20, 186), (20, 186), (20, 186)]
+        [(10, 35), (8, 35), (9, 30), (8, 30)]
+    Forearm_curl--forearm_flex:
+        [(15, 20), (15, 20), (15,20)]
+        [(15, 20), (15, 20), (15,20)]
+    Tricep_pushup:
+        [(22, 163), (15, 163), (13, 165)]
+    Abs_crunches:
+        [(100, 0)]
+    Russian_twist:
+        [(100, 8)]
+    Flutter_kicks:
+        [(100, 0)]
+Soreness_day_after: 4
+
+6/24/2019
+Workout:
+    leg_press_narrow:
+        [(15, 90, 120), (15, 180, 120), (15, 270, 120), (15, 360, 120), (12, 450, 10), (10, 270, 10), (20, 90, 10)]
+    bulgarian_split_squat:
+        [(15, 35, 90), (15, 40, 90), (15, 45, 90), (15, 50, 90)]
+    leg_extension:
+        [(25, 70, 90), (15, 120, 90), (15, 150, 10), (12, 130, 5), (10, 70, 5), (10, 40, 5), (3, 20, 5)]
+    swiss_ball_leg_curl--squat_jumps:
+        [(25, 162, 5), (25, 162, 5), (25, 162, 5)]
+        [(20, 162, 30), (20, 162, 30), (20, 162, 30)]
+    box_step_up:
+        [(7, 162), (9, 162)]
+Soreness_day_after: 1
+
+
+7/1/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 100), (15, 120), (15,120), (14,120), (13,120)]
+        [(20, 80), (15, 100), (15,110), (15,110), (15,110)]
+    reverse_tricep_pulldown--dumbbell_concentration_curl:
+        [(15, 80), (15, 90), (15, 90), (15, 90), (15, 90)]
+        [(9, 35), (8, 35), (7, 35), (7, 35), (7, 35)]
+    overhead_cable_tricep_press--bicep_hammer_curl:
+        [(15, 90), (12, 90), (11, 90), (11, 90), (10, 90)]
+        [(10, 45), (9, 45), (8, 45), (8, 45), (8, 45)]
+    bench_dips--dumbbell_curl:
+        [(20, 165), (20, 165), (20, 210), (20, 210)]
+        [(7, 35), (8, 30), (9, 30), (10, 30)]
+    Abs_crunch:
+        [(100, 0)]
+    leg_raise:
+        [(50, 0)]
+Soreness_day_after: 3
+
+7/2/2019
+Workout:
+    leg_press:
+        [(20, 90, 120), (15, 180, 120), (15, 270, 120), (15, 360, 120), (12, 450, 120)]
+    hack_squat:
+        [(15, 180, 90), (15, 270, 120), (12, 360, 10), (10, 180, 10), (4+, 90, 10)]
+    bulgarian_split_squat:
+        [(15, 30, 90), (15, 35, 90)]
+    single_leg_press:
+        [(15, 70, 60), (15, 80, 60)]
+    leg_extension:
+        [(25, 90, 90), (25, 120, 90), (11, 150, 10), (10, 120, 10), (10, 50, 10), (5, 30+, 5)]
+Soreness_day_after: 4
+
+7/7/2019
+Workout:
+    dumbbell_bench_press:
+        [(15, 50, 60), (12, 60, 60), (10, 70, 90), (8, 75, 90), (6, 80, 90)]
+    machine_incline_bench_press:
+        [(13, 45, 60), (9, 90, 90), (6, 90, 90)]
+    cable_chest_press:
+        [(18, 120, 60), (15, 150, 60), (11, 185, 60)]
+    cable_fly:
+        [(15, 80, 60), (15, 95, 60), (15,95, 60), (9,95, 60)]
+    wide_pushup--hammer_lying_press:
+        [(15, 163), (15, 163), (15, 163), (15, 163)]
+        [(12, 40), (10, 40), (8, 40), (9, 35)]
+Soreness_day_after: 3
+
+7/8/2019
+Workout:
+    stationary_lunges:
+        [(15, 60, 90), (15, 90, 90), (13, 100, 90)]
+    leg_press_wide:
+        [(20, 270, 120), (20, 360, 120), (15, 450, 120), (12, 500, 120), (10, 525, 120)]
+    hack_squat:
+        [(15, 180, 120), (15, 180, 120), (12, 270, 120)]
+    leg_extension:
+        [(25, 120, 60), (15, 170, 60), (15, 180, 60), (13, 180, 60), (13, 170, 10), (10, 120, 10), (20, 160, 10)]
+    calves_seated:
+        [(25, 90, 60), (25, 115, 60), (25, 115, 60), (17, 115, 60)]
+Soreness_day_after: 5
+
+7/9/2019
+workout:
+    Pullup:
+        [(15, 163, 60), (12, 197, 120), (5, 207, 120), (8, 187, 30), (7, 163, 60)]
+    medium_grip_seated_row:
+        [(15, 90, 90), (8, 135, 120), (8, 135, 120), (14, 90, 120)]
+    wide_grip_lat_pull_down:
+        [(12, 140, 90), (10, 135, 90), (10, 135, 90)]
+    dumbbell_row:
+        [(12, 50, 90), (10, 60, 90), (8, 70, 90), (6, 75, 90)]
+    straight_arm_press_down:
+        [(15, 100), (10, 120), (12, 110), (11, 110)]
+    hanging_leg_raise--russian_twist:
+        [(17, 163, 10), (12, 163, 10), (10, 163, 10)]
+        [(25, 20, 30),(25, 20, 30),(25, 20, 30)]
+    lying_leg_raise--plank:
+        [(25, 163), (25, 163), (25, 163)]
+        [(120, 163), (120, 163), (120, 163)]
+Soreness_day_after: 5
+
+7/10/2019
+    dumbbell_lateral_raise:
+        [(17, 25, 60), (10, 35, 120), (10, 35, 120), (10, 35, 20), (15, 25, 120)]
+    arnold_press:
+        [(13, 45, 90), (11, 45, 90), (10, 45, 90), (9, 45, 90)]
+    dumbbell_shoulder_press:
+        [(6, 65, 120), (8, 55, 120), (7, 55, 120), (7, 55, 120)]
+    rear_delt_dumbell_fly:
+        [(19, 10, 60), (13, 15, 60),  (13, 15, 60), (13, 15, 60)]
+    face_pull:
+        [(15, 70, 60), (12, 90, 60), (12, 90, 60), (12, 90, 60)]
+Soreness_day_after: 3
+
+7/12/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 100, 10), (15, 120, 10), (15,130, 10), (14,130, 10), (14,130, 10)]
+        [(15, 80, 50), (15, 110, 50), (15,120, 50), (13,120, 50), (13,120, 50)]
+    tricep_vbar_pushdown--dumbbell_concentration_curl:
+        [(15, 100, 10), (15, 110, 10), (15, 110, 10), (14, 110, 10), (15, 100, 10)]
+        [(8, 40, 50), (8, 40, 50), (7, 40, 50), (7, 40, 50), (6, 40, 50)]
+    overhead_cable_tricep_press--bicep_hammer_curl:
+        [(15, 90, 10), (12, 100, 10), (11, 110, 10), (10, 110, 10), (10, 110, 10)]
+        [(4, 50, 50), (10, 40, 50), (9, 40, 50), (8, 40, 50), (8, 40, 50)]
+    bench_dips--dumbbell_curl:
+        [(20, 165, 10), (20, 165, 10), (20, 165, 10), (20, 165, 10)]
+        [(9, 35, 50), (8, 35, 50), (7, 35, 50), (8, 25, 50)]
+    Tricep_pushup:
+        [(28, 165, 60), (22, 165, 60), (14, 165, 60)]
+Soreness_day_after: 2
+
+7/13/2019
+Workout:
+    single_leg_curl:
+        [(15, 50, 90), (12, 57, 90), (12, 65, 90), (10, 65, 90)]
+    lying_leg_curl:
+        [(15, 80, 90), (12, 87, 90), (10, 95, 90), (9, 95, 90)]
+    box_step_up:
+        [(15, 165, 90), (20, 165, 90), (23, 165, 90), (20, 165, 90)]
+    walking_lunges:
+        [(25, 165, 90), (25, 165, 90)]
+    leg_press:
+        [(50, 90, 90), (50, 180, 90), (40, 270, 90)]
+    seated_calf_raise--standing_calf_raise:
+        [(25, 90, 10), (25, 115, 10), (25, 115, 10)]
+        [(25, 170, 60), (25, 180, 60), (25, 190, 60)]
+Soreness_day_after: 1
+
+7/14/2019
+Workout:
+    bench_press:
+        [(14, 135, 120), (5, 185, 120), (5, 185, 120), (3, 185, 20), (6, 135, 90)]
+    incline_dumbbell_bench:
+        [(12, 50, 90), (13, 55, 90), (12, 60, 90)]
+    cable_chest_press:
+        [(10, 140, 90), (10, 160, 90), (10, 160, 90)]
+    cable_fly:
+        [(15, 80, 90), (15, 100, 90), (15, 110, 60), (12, 110, 60)]
+    wide_pushup--hammer_lying_press:
+        [(15, 165), (15, 165), (15, 165), (15, 165)]
+        [(13, 40), (10, 40), (8, 35), (9, 35)]
+Soreness_day_after: 2
+
+7/15/2019
+workout:
+    Pullup:
+        [(15, 165, 60), (13, 190, 120), (6, 200, 120), (4, 210, 120), (8, 190, 120)]
+    medium_grip_seated_row:
+        [(12, 270, 120), (7, 320, 120), (7, 320, 120), (11, 270, 120)]
+    Reverse_grip_machine_lat_pull_down:
+        [(15, 140, 90), (6, 230, 120), (10, 180, 90)]
+    single_arm_row:
+        [(19, 17.5, 30), (10, 25, 30), (8, 30, 90), (6, 35, 90)]
+    straight_arm_press_down:
+        [(15, 100), (15, 120), (14, 130), (12, 130)]
+Soreness_day_after: 2
+
+7/16/2019
+Workout:
+    leg_press_narrow:
+        [(20, 480, 60), (15, 480, 120), (15, 480, 60), (28, 480, 60)]
+    stationary_lunges:
+        [(25, 162, 60), (17, 212, 60), (20, 182, 60)]
+    glute_bridge:
+        [(10+, 0, 60), (10+, 0, 60)]
+    leg_extension:
+        [(20, 120, 60), (15, 180, 90), (15, 190, 90), (14, 190, 90), (10, 190, 10), (10, 130, 10), (20, 80, 10), (20, 50, 10)]
+    calves_standing:
+        [(100, 161, 0)]
+Soreness_day_after: 1
+
+7/17/2019
+Workout:
+    bench_press:
+        [(10, 185, 120), (9, 195, 120), (5, 205, 120), (6, 185, 120)]
+    incline_dumbbell_bench:
+        [(12, 65, 90), (9, 70, 90), (7, 70, 90), (10, 65, 90)]
+    dips:
+        [(13, 165, 90), (10, 185, 90), (8, 205, 90)]
+    cable_fly:
+        [(15, 110, 90), (15, 120, 90), (11, 140, 90), (14, 120, 60)]
+    leaning_lateral_raise:
+        [(15, 15, 60), (15, 20, 60), (15, 25, 60), (10, 25, 60)]
+    dumbbell_front_raise:
+        [(12, 30, 90), (12, 30, 90), (10, 30, 60)]
+Soreness_day_after: 3
+
+7/31/2019
+Workout:
+    bench_press:
+        [(15, 135, 120), (10, 155, 120), (5, 175, 120), (5, 175, 90), (9, 135, 90)]
+    wide_grip_incline_bench:
+        [(12, 95, 90), (12, 95, 90), (7, 95, 90), (7, 95, 90)]
+    cable_chest_press:
+        [(15, 100, 90), (15, 120, 90), (13, 120, 90), (11, 120, 90)]
+    cable_fly--wide_pushup:
+        [(20, 80, 10), (20, 80, 10), (20, 80, 10), (20, 80, 10)]
+        [(15, 163, 30), (15, 163, 30), (15, 163, 30), (15, 163, 30)]
+Soreness_day_after: 3
+
+8/2/2019
+workout:
+    Pullup:
+        [(15, 165, 120), (17, 165, 90), (9, 165, 90), (7, 165, 90)]
+    medium_grip_seated_row:
+        [(12, 180, 90), (12, 180, 90), (12, 180, 90), (12, 180, 90)]
+    Vertical_grip_lat_pull_down:
+        [(10, 135, 90), (12, 120, 90), (12, 120, 90)]
+    Reverse_grip_machine_lat_pull_down:
+        [(15, 90, 90), (19, 140, 90), (10, 180, 90), (3, 230, 90)]
+Soreness_day_after: 3
+
+8/9/2019
+Workout
+    Pullup:
+        [(20, 165, 120), (9, 190, 90), (7, 190, 90), (5, 190, 90), (12, 165, 90)]
+    wide_grip_seated_row:
+        [(12, 180, 90), (10, 200, 90), (9, 200, 90), (10, 180, 90)]
+    Reverse_grip_machine_lat_pull_down:
+    [(15, 90, 90), (19, 140, 90), (10, 180, 90), (3, 230, 90)]
+    face_pull:
+        [(30, 25, 90), (20, 35, 90), (20, 35, 90), (15, 45, 90), (15, 45, 90)]
+Soreness_day_after: 3
+
+8/11/2019
+Workout:
+    single_leg_curl:
+        [(15, 50, 90), (15, 50, 90), (15, 50, 90), (28, 50, 90)]
+    lying_leg_curl:
+        [(8, 110, 90), (12, 90, 90), (12, 90, 90), (10, 90, 90)]
+    leg_press_narrow:
+        [(30, 90, 120), (50, 180, 120), (40, 270, 120), (30, 360, 120)]
+    Standing_calf_raise:
+        [(25, 170, 90), (25, 180, 90),(25, 180, 90),(21, 185, 90),]
+    leg_extension:
+        [(15, 140, 120), (15, 180, 90), (15, 190, 90), (15, 200, 90), (10, 200, 10), (9, 140, 10), (20, 80, 10)]
+Soreness_day_after: 2
+
+8/14/2019
+workout:
+Pullup:
+        [(17, 165, 30), (9, 165, 60), (7, 165, 60), (6, 165, 60), (5, 165, 60)]
+    dumbbell_row:
+        [(15, 30, 90), (15, 40, 90), (12, 40, 90), (11, 40, 90)]
+    medium_grip_seated_row:
+        [(12, 180, 90), (12, 180, 90), (12, 180, 90), (18, 90, 90)]
+    straight_arm_pull_down:
+        [(15, 80, 90), (15, 90, 90), (12, 90, 90), (12, 90, 90)]
+Soreness_day_after: 2
+
+8/15/2019
+Workout:
+    goblet_squat:
+        [(10, 165, 90), (12, 165, 90), (10, 185, 90), (5, 205, 90), (12, 205, 90), (12, 205, 90)]
+    hex_bar_deadlift:
+        [(5, 65, 90), (7, 65, 90), (6, 65, 90)]
+    leg_press_narrow:
+        [(30, 270, 120), (30, 270, 120), (30, 270, 120), (25, 320, 120)]
+    seated_calf_raise:
+        [(25, 80, 90), (25, 80, 90),(21, 90, 90)]
+    lying_leg_curl:
+        [(10, 90, 120), (10, 90, 120), (10, 90, 120)]
+Soreness_day_after: 1
+
+
+8/16/2019
+Workout:
+    bench_press:
+        [(10+, 135, 120), (12+, 135, 120), (8+, 135, 120), (8+, 135, 120), (7+, 135, 90)]
+    wide_grip_incline_bench:
+        [(10, 95, 90), (8, 105, 90), (6, 105, 90), (8, 95, 90)]
+    dumbbell_fly:
+        [(8, 25, 90), (8, 25, 90), (7, 25, 90), (6, 25, 90)]
+Soreness_day_after: 3
+
+8/17/2019
+Workout:
+    Tricep_rope_extension--bicep_cable_curl:
+        [(25, 60, 10), (15, 80, 10), (15, 90, 10), (13, 100, 10), (15, 100, 10)]
+        [(25, 30, 20), (20, 40, 20), (20, 50, 20), (20, 50, 20), (20, 50, 20)]
+    tricep_vbar_pushdown--dumbbell_concentration_curl:
+        [(15, 80, 10), (15, 100, 10), (15, 110, 10), (15, 110, 10), (15, 110, 10)]
+        [(12, 25, 30), (12, 25, 30), (11, 25, 30), (9, 25, 30), (9, 25, 30)]
+    dumbbell_skull_crushers--bicep_hammer_curl:
+        [(12, 25, 10), (12, 25, 10), (11, 110, 10), (10, 110, 10)]
+        [(15, 25, 30), (13, 25, 30), (12, 25, 30), (10, 25, 30)]
+    dips--dumbbell_curl:
+        [(6, 163, 50), (6, 163, 50), (8, 133, 50)]
+        [(12, 25, 10), (10, 25, 10), (9, 25, 10)]
+Soreness_day_after: 4
+
+8/19/2019
+Workout:
+    Bulgarian_split_squat--narrow_stand_squad--single_leg_calf_raise--squad_jump--lunges--wall_sit:
+        [(10, 165, 10), (10, 165, 10), (10, 165, 10)]
+        [(20, 165, 10), (20, 165, 10), (20, 165, 10)]
+        [(75, 165, 10), (75, 165, 10), (75, 165, 10)]
+        [(20, 165, 10), (20, 165, 10), (20, 165, 10)]
+        [(20, 165, 10), (20, 165, 10), (20, 165, 10)]
+        [(60, 165, 180), (60, 165, 180), (60, 165, 180)]
+    bulgarian_split_squat:
+        [(10, 205, 90), (15, 190, 90)]
+    Kettlebell_sumo_deadlift:
+        [(15, 190, 90), (15, 210, 90), (16, 210, 90), (20, 210, 90)]
+Soreness_day_after: 2
+
+8/20/2019
+Workout:
+    bench_press:
+        [(10, 165, 120), (8, 165, 120), (6, 165, 120), (7, 155, 120), (10, 135, 90)]
+    cable_chest_press:
+        [(20, 60, 90), (15, 70, 90), (10, 80, 90), (9, 80, 90)]
+    dumbbell_fly:
+        [(8, 30, 90), (8, 30, 90), (7, 30, 90), (6, 30, 90)]
+Soreness_day_after: 3
+
+8/21/2019
+    Leg_press:
+        [(20, 180, 30), (20, 270, 30), (15, 360, 10), (20, 180, 10), (20, 90, 10)]
+    Lunges: 
+        [(30, 215, 120), (30, 235, 120)]
+    Leg_extension:
+        [(20, 70, 90), (15, 140, 90), (15, 180, 90), (10, 210, 10), (5, 170, 10), (12, 80, 10), (1+, 30, 120)]
+    Wall_sit:
+        [(60, 165, 15), (30, 165, 10), (30, 190, 120)]
+    Stair_sprint:
+        [(10, 165, 120)]    
+Soreness_day_after: 4
+
+8/22/2019
+Workout
+    Pullup:
+        [(21, 165, 90), (15, 165, 90), (7, 165, 90), (7, 165, 90)]
+    medium_grip_seated_row:
+        [(15, 180, 90), (11, 230, 90), (8, 230, 90), (12, 180, 90)]
+    hammer_grip_lateral_pull_down:
+        [(10, 120, 90), (15, 100, 90), (11, 100, 90)]
+    Reverse_grip_machine_lat_pull_down:
+        [(20, 90, 90), (17, 140, 90), (14, 160, 20), (26, 90, 90)]
+    face_pull:
+        [(30, 20, 90), (15, 50, 90), (15, 50, 90), (15, 50, 90)]
+Soreness_day_after: 2
+
+8/23/2019
+Workout:
+    bench_press:
+        [(10, 145, 120), (10, 145, 120), (6, 145, 120), (7, 135, 120), (7, 135, 90)]
+    incline_bench_press:
+        [(13, 85, 90), (8, 105, 90), (6, 105, 90), (11, 85, 90)]
+    dips:
+        [(10, 170, 90), (9, 170, 90), (9, 170, 90), (8, 170, 90)]
+    dumbbell_lateral_raise:
+        [(12, 25, 90), (10, 25, 90), (10, 25, 90)]
+Soreness_day_after: 3
+
+8/24/2019
+Workout:
+    goblet_squat:
+        [(10, 0, 90), (15, 25, 90), (15, 40, 90)]
+    front_squat:
+        [(20, 45, 90), (20, 55, 90), (15, 65, 90)]
+    Leg_press:
+        [(20, 290, 120), (20, 380, 120), (16, 430, 120), (12, 450, 20), (20, 270, 20), (20, 180, 20)]
+    single_leg_curl:
+        [(17, 50, 120), (10, 65, 120), (12, 55, 120), (10, 55, 120)]
+    Leg_extension:
+        [(20, 100, 90), (15, 180, 90), (15, 200, 90), (10, 200, 10), (9, 150, 10), (10, 100, 10), (7, 50, 120)]    
+Soreness_day_after: 1
+
+8/26/2019
+Workout:
+    bench_press:
+        [(9, 175, 140), (5, 185, 120), (6, 175, 120), (7, 155, 120), (11, 135, 90)]
+    wide_incline_bench_smith_press:
+        [(16, 50, 90), (8, 90, 90), (12, 90, 90), (10, 90, 90)]
+    cable_chest_press:
+        [(15, 125, 90), (12, 140, 90), (12, 140, 90), (11, 155, 90)]
+    cable_fly--wide_pushup:
+        [(20, 80, 10), (15, 95, 10), (20, 80, 10), (20, 80, 10)]
+        [(20, 170, 30), (15, 170, 30), (13, 170, 30), (15, 170, 30)]
+Soreness_day_after: 3
+
+8/27/2019
+Workout:
+    Leg_press:
+        [(20, 180, 30), (20, 270, 60), (20, 360, 120), (16, 450, 120), (12, 500, 20), (15, 360, 20), (20, 180, 20), (30, 90, 30)]
+    smith_front_squat:
+        [(10, 20, 60), (5, 50, 60), (6, 30, 90)]
+    lunges:
+        [(15, 195, 120), (15, 200, 120)]
+    Leg_extension:
+        [(20, 100, 90), (15, 180, 90), (15, 200, 90), (13, 210, 90), (13, 180, 10), (10, 130, 10), (15, 80, 10), (5+, 30, 10)]    
+Soreness_day_after: 3
+
+8/22/2019
+Workout
+    Pullup:
+        [(12, 170, 90), (14, 170, 90), (8, 170, 90), (7, 170, 90)]
+    Reverse_grip_machine_lat_pull_down:
+        [(22, 90, 90), (15, 140, 90), (12, 180, 20), (6, 220, 90), (10, 180, 90), (17, 90, 90)]
+    medium_grip_seated_row:
+        [(15, 180, 90), (11, 230, 90), (8, 230, 90), (12, 180, 90)]
+    hammer_grip_lateral_pull_down:
+        [(10, 120, 90), (15, 100, 90), (11, 100, 90)]
+    face_pull:
+        [(30, 20, 90), (15, 50, 90), (15, 50, 90), (15, 50, 90)]
+Soreness_day_after: 3
+
+1/19/2020
+Workout
+    Bench_press:
+        [(15, 135, 60), (11, 155, 60), (9, 165, 90), (7, 175, 90), (4, 175, 90)]
+    incline_bench_press:
+        [(15, 45, 60), (12, 45, 60), (9, 12, 60)]
+    cable_chest_press:
+        [(20, 45, 60), (15, 60, 90), (13, 70, 90)]
+    cable_fly--wide_pushup:
+        [(20, 45, 10), (20, 45, 10), (20, 45, 10)]
+        [(15, 180, 30), (15, 180, 30), (15, 100, 30)]
+Soreness_day_after: 4
+
+1/20/2020
+Workout
+    Run:
+        [(20, 180)]
+Soreness_day_after: 3

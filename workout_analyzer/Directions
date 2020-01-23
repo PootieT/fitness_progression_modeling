@@ -1,0 +1,38 @@
+# Directions:
+
+## Research: 
+- Plot Body Part Development: 
+	- Average body part, then look at association, point out weakness, and strength,
+	- by finding the difference in weight you do, roughly calculate difference in muscle volume between different groups
+
+- Muscle Group BodyPart Generation:
+- Muscle / Exercise relationship
+
+- keep soreness status for each muscle group over time
+	- like each body part is a jar of water, once you have enough you can workout another part
+	- soreness can be initial manual input in that, over time predict
+
+- varying individual exercises
+	- randomly combine, such that eeach part has a good workout
+
+- understand heavy set and rep set difference in breaking down type I/II muscle types
+	- vary it up a bit
+
+- the million dollar question is:
+	- how do you generate the optimal workout for you at the right time
+	- what is the reward? 
+		- increase in weight you do next time
+			- (weight) weighing combination of 1RM and single set volumne
+			- (exercise) mapp to muscle group ultimately
+		- optimal muscle recovery time +-
+		- soreness next day
+
+
+
+
+## App
+
+- randomly add werid trianing tips and add them to different exercise, if user like, add to inventory of shit to try
+
+- Add pre-defined exercise templates, and interface for displaying exercise set and weight
+

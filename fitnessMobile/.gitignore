@@ -28,6 +28,8 @@ build/
 .gradle
 local.properties
 *.iml
+android/app/fitness-mobile-upload-key.keystore
+android/gradle.properties
 
 # node.js
 #
