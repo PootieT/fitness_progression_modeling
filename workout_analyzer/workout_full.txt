@@ -254,7 +254,7 @@ Workout:
         [(5, 130), (4, 130), (5, 130)]
     Cable_cross_over_upper_back_pull:
         [(12, 30), (6, 45), (6, 45), (6, 45)]
-incline_seated_hammer_curl:
+    hammer_curl:
         [(6, 35), (6, 35), (6, 35), (8, 25), (8, 25), (10, 15)]
 Soreness_day_after: 3
 
@@ -374,7 +374,7 @@ Workout:
         [(8, 0), (8, 0), (6, 0)]
     bench_leg_raise:
         [(20, 0), (14, 0), (12, 0)]
-swissball_sit_up:
+    swissball_sit_up:
         [(15, 0), (12, 0), (8, 0)]
 Soreness_day_after: 4
 
@@ -554,7 +554,7 @@ Soreness_day_after: 2
 
 5/3/2019
 Workout:
-    incline_bench:
+    incline_bench_press:
         [(7, 185), (5, 185), (4, 185), (5, 135), (6, 95), (3, 185), (5, 135), (5, 95)]
     decline_bench:
         [(8, 135), (6, 155), (6, 155), (7, 135)]
@@ -907,7 +907,7 @@ Workout:
     vbar_press_down--dumbbell_concentration_curl:
         [(15, 120), (15, 130), (15, 140), (15, 140), (15, 140)]
         [(9, 30), (9, 30), (8, 30), (7, 30), (8, 25)]
-    skull_crushers--bicep_hammer_curl:
+    skull_crushers--hammer_curl:
         [(12, 65), (11, 65), (10, 65), (10, 65), (9, 65)]
         [(13, 25), (10, 30), (10, 30), (9, 30), (8, 30)]
     bench_dips--dumbbell_curl:
@@ -1005,7 +1005,7 @@ Workout:
     vbar_press_down--dumbbell_concentration_curl:
         [(15, 120), (15, 130), (15, 140), (15, 150), (15, 150)]
         [(10, 30), (9, 30), (8, 30), (8, 30), (7, 30)]
-    skull_crushers--bicep_hammer_curl:
+    skull_crushers--hammer_curl:
         [(12, 65), (11, 65), (10, 65), (10, 65), (9, 65)]
         [(11, 40), (10, 40), (8, 40), (8, 40), (8, 40)]
     bench_dips--dumbbell_curl:
@@ -1114,7 +1114,7 @@ Workout:
     reverse_tricep_pulldown--dumbbell_concentration_curl:
         [(15, 80), (15, 100), (15, 120), (15, 120), (15, 120)]
         [(10, 30), (8, 30), (8, 30), (8, 30), (7, 30)]
-    skull_crushers--bicep_hammer_curl:
+    skull_crushers--hammer_curl:
         [(12, 70), (11, 70), (10, 70), (9, 70), (8, 70)]
         [(10, 40), (9, 40), (8, 40), (8, 40), (8, 40)]
     bench_dips--dumbbell_curl:
@@ -1157,7 +1157,7 @@ Workout:
     reverse_tricep_pulldown--dumbbell_concentration_curl:
         [(15, 80), (15, 90), (15, 90), (15, 90), (15, 90)]
         [(9, 35), (8, 35), (7, 35), (7, 35), (7, 35)]
-    overhead_cable_tricep_press--bicep_hammer_curl:
+    overhead_cable_tricep_press--hammer_curl:
         [(15, 90), (12, 90), (11, 90), (11, 90), (10, 90)]
         [(10, 45), (9, 45), (8, 45), (8, 45), (8, 45)]
     bench_dips--dumbbell_curl:
@@ -1253,7 +1253,7 @@ Workout:
     tricep_vbar_pushdown--dumbbell_concentration_curl:
         [(15, 100, 10), (15, 110, 10), (15, 110, 10), (14, 110, 10), (15, 100, 10)]
         [(8, 40, 50), (8, 40, 50), (7, 40, 50), (7, 40, 50), (6, 40, 50)]
-    overhead_cable_tricep_press--bicep_hammer_curl:
+    overhead_cable_tricep_press--hammer_curl:
         [(15, 90, 10), (12, 100, 10), (11, 110, 10), (10, 110, 10), (10, 110, 10)]
         [(4, 50, 50), (10, 40, 50), (9, 40, 50), (8, 40, 50), (8, 40, 50)]
     bench_dips--dumbbell_curl:
@@ -1343,7 +1343,7 @@ Soreness_day_after: 3
 Workout:
     bench_press:
         [(15, 135, 120), (10, 155, 120), (5, 175, 120), (5, 175, 90), (9, 135, 90)]
-    wide_grip_incline_bench:
+    wide_grip_incline_bench_press:
         [(12, 95, 90), (12, 95, 90), (7, 95, 90), (7, 95, 90)]
     cable_chest_press:
         [(15, 100, 90), (15, 120, 90), (13, 120, 90), (11, 120, 90)]
@@ -1421,7 +1421,7 @@ Soreness_day_after: 1
 Workout:
     bench_press:
         [(10+, 135, 120), (12+, 135, 120), (8+, 135, 120), (8+, 135, 120), (7+, 135, 90)]
-    wide_grip_incline_bench:
+    wide_grip_incline_bench_press:
         [(10, 95, 90), (8, 105, 90), (6, 105, 90), (8, 95, 90)]
     dumbbell_fly:
         [(8, 25, 90), (8, 25, 90), (7, 25, 90), (6, 25, 90)]
@@ -1435,7 +1435,7 @@ Workout:
     tricep_vbar_pushdown--dumbbell_concentration_curl:
         [(15, 80, 10), (15, 100, 10), (15, 110, 10), (15, 110, 10), (15, 110, 10)]
         [(12, 25, 30), (12, 25, 30), (11, 25, 30), (9, 25, 30), (9, 25, 30)]
-    dumbbell_skull_crushers--bicep_hammer_curl:
+    dumbbell_skull_crushers--hammer_curl:
         [(12, 25, 10), (12, 25, 10), (11, 110, 10), (10, 110, 10)]
         [(15, 25, 30), (13, 25, 30), (12, 25, 30), (10, 25, 30)]
     dips--dumbbell_curl:
@@ -1564,10 +1564,10 @@ Soreness_day_after: 3
 Workout
     Bench_press:
         [(15, 135, 60), (11, 155, 60), (9, 165, 90), (7, 175, 90), (4, 175, 90)]
-    incline_bench_press:
-        [(15, 45, 60), (12, 45, 60), (9, 12, 60)]
+    dumbbell_incline_bench_press:
+        [(15, 45, 60), (12, 45, 60), (9, 45, 60)]
     cable_chest_press:
-        [(20, 45, 60), (15, 60, 90), (13, 70, 90)]
+        [(20, 90, 60), (15, 120, 90), (13, 140, 90)]
     cable_fly--wide_pushup:
         [(20, 45, 10), (20, 45, 10), (20, 45, 10)]
         [(15, 180, 30), (15, 180, 30), (15, 100, 30)]
@@ -1578,3 +1578,78 @@ Workout
     Run:
         [(20, 180)]
 Soreness_day_after: 3
+
+1/22/2020
+Workout
+    Side_hang_lateral_raise:
+        [(15, 15, 60), (15, 20, 60), (15, 25, 60), (15, 25, 60)]
+    dumbbell_front_raise:
+        [(15, 25,60), (12, 25,60), (9,25,60), (9,25,60)]
+    seated_machine_shoulder_press:
+        [(10, 70), (10, 70), (8, 70), (6, 70), (9, 55)]
+    rear_delt_machine_fly:
+        [(15, 10, 60), (15, 15, 60), (15, 15, 60)]
+    shrug:
+        [(15, 65, 90), (15, 75, 90), (15, 75, 90), (12, 75, 90)]
+Soreness_day_after: 2
+
+1/23/2020
+Workout
+    romanian_deadlift:
+        [(20, 95, 90), (15, 115, 90), (12, 135, 90), (10, 155, 120), (8, 185, 120)]
+    single_leg_curl:
+        [(15, 35), (15, 35), (15, 35), (15, 20)]
+    lying_leg_curl:
+        [(12, 50), (12, 65), (12, 65), (12, 50)]
+    box_step_up:
+        [(15, 179), (15, 194), (15, 204)]
+    leg_press_wide:
+        [(15, 190, 60), (15, 280, 60), (15, 370, 90), (15, 460, 30), (12, 270, 30), (10, 190, 30)]
+    seated_calf_raise:
+        [(16, 70), (21, 70), (22, 70)]
+Soreness_day_after: 5
+
+1/24/2020
+Workout
+    Pullup:
+        [(15, 178, 90), (12, 178, 90), (15, 158, 90), (15, 138, 90), (15, 118, 90)]
+    narrow_grip_seated_row:
+        [(12, 180, 90), (12, 180, 90),(12, 180, 90),(12, 180, 90)]
+    wide_hammer_grip_lateral_pull_down:
+        [(12, 105, 90), (12, 105, 90), (10, 105, 90)]
+    cable_one_arm_row:
+        [(20, 10, 60), (12, 15, 60), (10, 22.5, 60), (8, 25, 60), (8, 30, 60)]
+    straight_arm_press_down:
+        [(15, 50, 60), (15, 70, 60), (15, 70, 60),(15, 70, 60)]
+Soreness_day_after: 3
+
+1/25/2020
+Workout
+    Tricep_rope_extension--bicep_cable_curl:
+        [(15, 80, 10), (15, 90, 10), (15,100, 10), (12,110, 10), (14,100, 10)]
+        [(15, 70, 20), (15, 80, 20), (15,90, 20), (13,100, 20), (15,90, 20)]
+    Tricep_reverse_cable_curl--dumbbell_concentration_curl:
+        [(15, 70, 10), (15, 80, 10), (15, 90, 10), (15, 90, 10), (15, 90, 10)]
+        [(10, 30, 30), (8, 30, 30), (8, 30, 30), (8, 25, 30), (7, 25, 30)]
+    behind_the_back_plate_raise--dumbbell_curl:
+        [(12, 45, 10), (11, 45, 10), (10, 45, 10), (10, 45, 10)]
+        [(9, 25, 30), (8, 25, 30), (7, 25, 30), (9, 20, 30)]
+    dips--hammer_curl:
+        [(20, 165, 10), (19, 190, 10), (16,215, 10), (19,190, 10)]
+        [(6, 35, 30), (8, 30, 30), (8, 30, 30), (8, 30, 30)]
+Soreness_day_after: 3
+
+1/27/2020
+Workout
+    Bench_press:
+        [(15, 135, 60), (12, 155, 60), (10, 165, 90), (7, 175, 90), (6, 185, 90)]
+    dumbell_incline_bench_press:
+        [(12, 45, 60), (12, 45, 60), (9, 45, 60)]
+    cable_chest_press:
+        [(15, 110, 60), (12, 140, 60), (12, 170, 60), (9, 170, 60)]
+    cable_fly:
+        [(15, 110, 10), (12, 125, 10), (12, 125, 10)]
+    hammer_lying_press--wide_pushup:
+        [(10, 30, 10), (10, 30, 10), (8, 30, 10)]
+        [(15, 180, 30), (12, 180, 30), (7, 100, 30)]
+Soreness_day_after: 
