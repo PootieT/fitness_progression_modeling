@@ -3,6 +3,7 @@ from pprint import pprint
 import datetime
 import matplotlib.pyplot as plt
 from copy import deepcopy
+from typing import List, Tuple
 
 
 def parse_workout_from_list(wk_list):
@@ -117,3 +118,35 @@ def get_exercise_metric(exercise, metric):
 		epley_results = max([ex_set[1]*(1+ex_set[0]/30) for ex_set in exercise[1]])
 		brzycki_results = max([ex_set[1]/(1.0278-0.0278*ex_set[0]) for ex_set in exercise[1]])
 		return (epley_results + brzycki_results)/2
+
+
+def calculate_one_rep_max(sets: List[Tuple]) -> float:
+	"""
+	given sets of an exercise, return one rep max. using the average 
+	of epley and brzycki equations 
+	:param sets: list of rep weight tuples [(7, 162), (9, 162)]
+	:return: one rep max
+	"""
+	epley_results = max([s[1]*(1+s[0]/30) for s in sets])
+	brzycki_results = max([s[1]/(1.0278-0.0278*s[0]) for s in sets])
+	return (epley_results + brzycki_results)/2
+
+def plot_workout_history_wordcloud(workout_dict):
+	exs = []
+	for wk in workouts:
+	    ex = list(wk["workout"].keys())
+	    for e in ex:
+	        exs.extend(e.split("--"))
+	exs_string = " ".join(exs)
+
+	wordcloud = WordCloud(width = 800, height = 800, 
+	                background_color ='white', 
+	                min_font_size = 10).generate(exs_string) 
+	  
+	# plot the WordCloud image                        
+	plt.figure(figsize = (8, 8), facecolor = None) 
+	plt.imshow(wordcloud) 
+	plt.axis("off") 
+	plt.tight_layout(pad = 0) 
+	  
+	plt.show() 

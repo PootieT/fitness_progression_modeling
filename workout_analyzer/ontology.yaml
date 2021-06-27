@@ -1,0 +1,106 @@
+body parts:
+  upper:
+    arm:
+      bicep:
+        synonyms:
+          - bicep 
+          - biceps
+          - brachialis
+          - biceps brachii
+          - brachialis
+      tricep:
+        synonyms:
+          - tricep
+          - triceps
+          - triceps brachii
+      forearm:
+    shoulder:
+      front delt:
+        synonyms:
+          - front delt
+          - front delts
+          - front deltoid
+          - front shoulder
+          - anterior delt
+          - anterior delts
+          - anterior deltoid
+          - anterior shoulder
+      lateral delt:
+        synonyms:
+          - lateral delt
+          - lateral deltoid
+          - mid delt
+          - mid delts
+          - mid deltoid
+          - mid shoulder
+      rear delt:
+        synonyms:
+          - rear delt
+          - rear shoulder
+          - rear deltoid
+    chest:
+      upper chest:
+        synonyms:
+          - upper chest
+          - upper pec
+          - upper pectoral
+          - upper pectoralis major
+      mid chest:
+        synonyms:
+          - mid chest
+          - middle chest
+          - center chest
+          - middle pec
+          - mid pectoralis major
+      lower chest:
+        synonyms:
+          - lower chest
+          - lower pec
+          - lower pectoral
+          - lower pectoralis major
+    back:
+      lat:
+        synonyms:
+          - latissimus dorsi
+          - lats
+          - mid 
+          - lat
+          - mid back
+          - lower back
+      serratus:
+        synonyms:
+          - serratus anterior
+      trap:
+        synonyms:
+          - traps
+          - trapezius
+          - upper back
+          - neck
+    abs:
+      synonyms:
+        - abdnominal
+        - rectus abdominis
+        - obliques
+        - oblique
+  lower:
+    leg:
+      quad:
+        synonyms:
+          - quads
+          - quadriceps
+          - quadriceps femoris
+      hamstring:
+        synonyms:
+          - hammy
+          - hammies
+          - biceps femoris
+          - 
+      glute:
+        synonyms:
+          - glutes
+          - gluteus maximus
+      calf:
+        synonyms:
+          - gastrocnemius
+          - calves
+          - soleus
