@@ -5432,7 +5432,7 @@ workout:
     seated_calf_raise--standing_calf_raise:
         [(25,50,20),(22,90,20),(12,180,20)]
         [(11,270,20),(11,270,20),(12,270,20)]
-soreness_day_after:
+soreness_day_after: 4
 
 1/10/2020:
 workout:
@@ -5446,4 +5446,4 @@ workout:
         [(12,25,90),(12,30,90),(12,30,90),(10,25,90)]
     smith_upright_row:
         [(12,50,90),(12,50,90),(15,60,90)(14,50,90)]
-soreness_day_after:
+soreness_day_after: 4
